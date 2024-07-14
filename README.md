@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SchneeWelt
 
-- Im junior software developer
+- I am a junior software developer working on Mobile Apps 
 
