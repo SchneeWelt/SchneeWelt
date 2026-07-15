@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @SchneeWelt
+## SchneeWelt
 
-- Webentwickler
+### Themenfelder 
 
-- Android Entwickler
+- Webentwicklung
+
+- Androidentwicklung
